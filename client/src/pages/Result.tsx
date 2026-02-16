@@ -1,6 +1,6 @@
 import { useLocation } from "react-router-dom";
 import type { ResearchBrief } from "../types/research";
-import "../styles/global.css"; 
+
 
 export default function Result() {
   const location = useLocation();
